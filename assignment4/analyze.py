@@ -1,3 +1,7 @@
+# CMSC 21800
+# Assignment 4 - Data Integration
+# Firat Ciftci (firatciftci)
+
 from core import *
 import datetime
 
